@@ -1,7 +1,7 @@
 
 # Movie Recommendation System
 
-Welcome to the Movie Recommendation System! This project uses Streamlit to provide personalized movie recommendations based on user preferences and past behavior.
+Welcome to the Movie Recommendation System! This project uses Streamlit to provide personalized movie recommendations based on user preferences and similarity.
 
 ## Table of Contents
 - [Introduction](#introduction)
